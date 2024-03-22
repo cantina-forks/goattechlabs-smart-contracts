@@ -1,0 +1,17 @@
+node_modules/
+typechain/
+env.json
+.tmp-addresses*.json
+flattened
+
+#Hardhat files
+cache
+artifacts
+
+#orther
+typechain-types
+json
+.env
+contractAdress.json
+package-lock.json
+yarn-error.log
